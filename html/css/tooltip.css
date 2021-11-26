@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+*{
+    font-family: 'Calibri';
+}
+  
+.tooltip-inner {
+    font-family: 'Calibri';
+    font-size: 11px;
+    color: white;
+}
+
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { 
+    border-radius: 20px; 
+}
+
+.toggle.ios .toggle-handle { 
+    border-radius: 20px; 
+}
+
+.custom-control, .custom-switch, .custom-control-input {
+    color: white
+}

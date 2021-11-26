@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Font-1;
+    src: url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+}
+
+@font-face {
+    font-family: 'Twitter Font';
+    src: url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+}
+
+@font-face {
+    font-family: 'Racing Font';
+    src: url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+}
+
+@font-face {
+    font-family: 'Samsung Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+}
+    
+@font-face {
+    font-family: 'Samsung Sans Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+}
+    
+@font-face {
+    font-family: 'Samsung Sans Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+}
+    
+@font-face {
+    font-family: 'Samsung Sans Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Samsung Sans Medium'), url('../fonts/SamsungSans-Medium.woff') format('woff');
+}
+    
+@font-face {
+    font-family: 'Samsung Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Samsung Sans Bold'), url('../fonts/SamsungSans-Bold.woff') format('woff');
+}
+    
+@font-face {
+    font-family: 'Qbus Font';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/KeepCalm-Medium.ttf');
+}
